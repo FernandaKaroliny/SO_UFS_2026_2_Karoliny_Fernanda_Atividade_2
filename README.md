@@ -1,1 +1,1 @@
-# SO_UFS_2026_2_Karoliny_Fernanda_Atividade_2
+# Memória, armazenamento, sincronização e desempenho de aplicações de IA generativa
